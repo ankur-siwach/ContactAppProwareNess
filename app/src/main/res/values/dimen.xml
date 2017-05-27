@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="left_padding_10">10dp</dimen>
+    <dimen name="remove_btn_height">20dp</dimen>
+
+    <dimen name="name_size">20sp</dimen>
+    <dimen name="number_size">16sp</dimen>
+
+
+</resources>
